@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header-container {
+    background-color: rgb(28, 28, 78);
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.hero-container {
+    background-color: darkblue;
+    color: white;
+}
+
+.right-headers {
+    display: flex;
+    gap: 20px;
+}

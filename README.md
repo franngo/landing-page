@@ -1,0 +1,1 @@
+This project is part of the The Odin Project's curriculum. With it, I aim to demonstrate my CSS Flexbox layout skills.
